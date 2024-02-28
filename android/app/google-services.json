@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "351457392208",
+    "firebase_url": "https://unicorn-thirteen-default-rtdb.firebaseio.com",
+    "project_id": "unicorn-thirteen",
+    "storage_bucket": "unicorn-thirteen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351457392208:android:70c9d0ecd1779f9d214355",
+        "android_client_info": {
+          "package_name": "com.example.unicorn_thirteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt0PeD8xH7874srvzOyLoMGyFXcJoL55s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
